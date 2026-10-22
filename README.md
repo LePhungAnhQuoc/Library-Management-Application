@@ -3,6 +3,10 @@ LIBRARY MANAGEMENT SYSTEM - RUNNING INSTRUCTIONS
 
 Prerequisites & Setup Steps
 ---------------------------
+1. Link videos:
+ + Application demo: https://youtu.be/7nVDQjQCY90
+ + How to open my application: https://youtu.be/jUXXCD7h3jo
+
 1. Install all required software in the SYSTEM_REQUIREMENTS.md file
 
 2. Run the database script located in the 'Database' folder.
@@ -15,8 +19,6 @@ Prerequisites & Setup Steps
  Step 2: Run this command "$env:ASPNETCORE_URLS = "https://localhost:7287;http://localhost:5037""
  Step 3: Run the command ".\Api.exe"
 5. Open the Library-Management-Application project
-
-5. Open the Library_management_guidance.pdf file to learn how to use my application
 
 Default User Accounts
 ---------------------
